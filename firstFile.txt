@@ -2,8 +2,8 @@ line 01 changes from git_1 part 8
 line 02 changes from git_1 part 8
 line 03
 line 04
-line 05
-line 06
+line 05 changes from git_1 (folder 2)
+line 06 changes from git_1 (folder 2)
 line 07
 line 08
 line 09 changes from git_1
