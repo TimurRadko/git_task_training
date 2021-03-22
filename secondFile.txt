@@ -8,3 +8,5 @@ line 07
 line 08
 line 09 changes from git_1
 line 10 changes from git_1
+line 09 update line from git_2
+line 10 update line from git_2
