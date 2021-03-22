@@ -1,5 +1,5 @@
-line 01
-line 02
+line 01 changes from git_1 part 8
+line 02 changes from git_1 part 8
 line 03
 line 04
 line 05
