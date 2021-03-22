@@ -1,0 +1,24 @@
+From 959b7b7a69039e486cb76e1798f2b889af63dd0b Mon Sep 17 00:00:00 2001
+From: Timur Radko <timurradko@gmail.com>
+Date: Mon, 22 Mar 2021 12:46:31 +0300
+Subject: [PATCH] changed firstFile.txt in line 09 and line 10 from git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 6d0138b..05dfa18 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@ line 05
+ line 06
+ line 07
+ line 08
+-line 09
+-line 10
++line 09 changes from git_1
++line 10 changes from git_1
+-- 
+2.31.0.windows.1
+
